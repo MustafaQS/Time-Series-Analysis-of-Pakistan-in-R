@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1"
-author: "Muhammad Uzair Aslam (18097) , Mustafa Shamim(PUT YOUR ERP),Sahad Moorani(PUT YOUR ERP)"
+author: "Muhammad Uzair Aslam (18097) , Mustafa Shamim (17988), Sahad Morani(18000)"
 date: "3/20/2021"
 output: html_document
 ---
